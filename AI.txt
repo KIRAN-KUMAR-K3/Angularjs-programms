@@ -11,3 +11,22 @@ Q&A
 
 diff ai vs gen ai
 prompt enineering ,future jobs are comming on this
+
+text:
+openai alphabet cohere jasper Anthrop\c
+
+
+audio:
+openai stability.aikrisp speechify wellsaid
+
+video:
+descript runway pictory deepbrai ai, synthesia
+
+image:
+lightricks stability.ai, beautiful.ai, Midjourney
+
+code:
+replit, tabnine, Debuild, Microsoft
+
+Datat Analytics:
+hugging face datagen pilot.ai, google
