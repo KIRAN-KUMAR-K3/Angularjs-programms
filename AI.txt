@@ -33,3 +33,5 @@ hugging face datagen pilot.ai, google
 
 
 veed.io use for image free
+
+NLP
