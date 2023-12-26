@@ -38,13 +38,13 @@ NLP
 
 
 
-SOFTWARE DEVELOPMENT LIFECYCLE PROCESS
-planning and analysis 
-schedule requirements gatehring sessions 
-draft functional specification
-approve tecvhnical specification 
-draft technical specification approve
-approve functional specification
-build & unit test, QA installation Manual 
-Funtional Unit Testing/Product owner Demo
-Deploy to Evolve
+SOFTWARE DEVELOPMENT LIFECYCLE PROCESS:-
+1. planning and analysis 
+2. schedule requirements gatehring sessions 
+3. draft functional specification
+4. approve tecvhnical specification 
+5. draft technical specification approve
+6. approve functional specification
+7. build & unit test, QA installation Manual 
+8. Funtional Unit Testing/Product owner Demo
+9. Deploy to Evolve
