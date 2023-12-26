@@ -30,3 +30,6 @@ replit, tabnine, Debuild, Microsoft
 
 Datat Analytics:
 hugging face datagen pilot.ai, google
+
+
+veed.io use for image free
