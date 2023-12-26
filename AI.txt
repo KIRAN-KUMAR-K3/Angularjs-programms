@@ -1,2 +1,13 @@
 gen ai
 SDLC
+AGENDA:
+Artificial Intelligent
+Gen AI 
+Gen AI tools
+Demo/On-hand
+Software Development Life Cycle
+Usage of Gen AI in SDLC
+Q&A
+
+diff ai vs gen ai
+prompt enineering ,future jobs are comming on this
