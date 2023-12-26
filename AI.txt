@@ -35,3 +35,16 @@ hugging face datagen pilot.ai, google
 veed.io use for image free
 
 NLP
+
+
+
+SOFTWARE DEVELOPMENT LIFECYCLE PROCESS
+planning and analysis 
+schedule requirements gatehring sessions 
+draft functional specification
+approve tecvhnical specification 
+draft technical specification approve
+approve functional specification
+build & unit test, QA installation Manual 
+Funtional Unit Testing/Product owner Demo
+Deploy to Evolve
